@@ -1,0 +1,3 @@
+{
+    "extends": "@michaelmelody91/eslint-config-prettier-ts"
+}

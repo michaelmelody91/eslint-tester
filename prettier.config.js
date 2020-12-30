@@ -1,0 +1,1 @@
+module.exports = require('@michaelmelody91/eslint-config-prettier-ts/.prettierrc');
